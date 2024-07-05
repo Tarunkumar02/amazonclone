@@ -168,7 +168,8 @@ header {
   height: 400px;
   background-image: url("hero-img.jpg");
   background-position: center;
-  background-size: cover;
+  background-size: flex;
+  
 }
 
 /* Shop Section */
